@@ -1,25 +1,115 @@
-[08aug.2024 00:00:00.703] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Glogge lost connection: Disconnected
-[08aug.2024 00:00:00.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Glogge left the game
-[08aug.2024 15:35:19.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[08aug.2024 15:35:19.346] [Server thread/INFO] [mtr.libraries.org.eclipse.jetty.server.AbstractConnector/]: Stopped ServerConnector@6831b836{HTTP/1.1, (http/1.1)}{0.0.0.0:8888}
-[08aug.2024 15:35:19.348] [Server thread/INFO] [mtr.libraries.org.eclipse.jetty.server.handler.ContextHandler/]: Stopped m.l.o.e.j.s.ServletContextHandler@15affbc6{/,union:/C:/Users/jonat/Documents/GitHub/Jonathans-Server/mods/MTR-forge-1.20.1-3.2.2-hotfix-2.jar%23458!/assets/mtr/website,STOPPED}
-[08aug.2024 15:35:19.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[08aug.2024 15:35:19.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[08aug.2024 15:35:19.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[08aug.2024 15:35:19.364] [Physics thread/INFO] [Burger Factory/]: Deleting VSPhysicsPipelineStage resources!
-[08aug.2024 15:35:19.365] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ap/]: Physics pipeline ending
-[08aug.2024 15:35:19.962] [DefaultDispatcher-worker-1/INFO] [Burger Factory/]: VSPhysicsPipelineStage is fully deleted!
-[08aug.2024 15:35:21.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[08aug.2024 15:35:21.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[08aug.2024 15:35:21.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
-[08aug.2024 15:35:21.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[08aug.2024 15:35:21.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
-[08aug.2024 15:35:21.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[08aug.2024 15:35:21.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08aug.2024 15:35:21.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
-[08aug.2024 15:35:21.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[08aug.2024 15:35:21.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
-[08aug.2024 15:35:21.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[08aug.2024 15:35:21.886] [Server thread/INFO] [FTB Chunks/]: Shutting down map thread
-[08aug.2024 15:35:21.890] [Server thread/INFO] [Framework/]: Unloading server configs...
-[08aug.2024 15:35:21.891] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[09aug.2024 12:32:26.826] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Glogge is 61cd030b-8127-49ab-88b2-ff3e82d8032c
+[09aug.2024 12:32:32.178] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Glogge[/192.168.50.185:50802] logged in with entity id 69839 at (662.3000000119209, 78.0, -145.8785144306003)
+[09aug.2024 12:32:32.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Glogge joined the game
+[09aug.2024 12:32:32.225] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[09aug.2024 12:32:32.226] [Server thread/INFO] [Jade/]: Syncing config to Glogge (61cd030b-8127-49ab-88b2-ff3e82d8032c)
+[09aug.2024 12:32:32.889] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 1.8607189655303955) to LOW (avg. 27.441303253173828)
+[09aug.2024 12:32:40.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 27.441303253173828) to VERY_LOW (avg. 17.362119674682617)
+[09aug.2024 12:35:10.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 17.501239776611328) to LOW (avg. 20.84787940979004)
+[09aug.2024 12:35:25.390] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 20.84787940979004) to VERY_LOW (avg. 18.759695053100586)
+[09aug.2024 12:36:02.890] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 17.756214141845703) to LOW (avg. 21.83066749572754)
+[09aug.2024 12:36:17.890] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 21.83066749572754) to VERY_LOW (avg. 17.661697387695312)
+[09aug.2024 12:37:17.890] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 17.597877502441406) to LOW (avg. 21.737133026123047)
+[09aug.2024 12:37:32.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 21.737133026123047) to VERY_LOW (avg. 16.932157516479492)
+[09aug.2024 12:37:55.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 16.848703384399414) to LOW (avg. 23.253480911254883)
+[09aug.2024 12:38:02.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 23.253480911254883) to VERY_LOW (avg. 17.22331428527832)
+[09aug.2024 12:44:17.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 16.227495193481445) to LOW (avg. 22.833637237548828)
+[09aug.2024 12:44:40.390] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 21.960695266723633) to VERY_LOW (avg. 16.902328491210938)
+[09aug.2024 12:44:55.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 16.902328491210938) to LOW (avg. 21.728286743164062)
+[09aug.2024 12:45:47.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 21.305173873901367) to VERY_LOW (avg. 17.783306121826172)
+[09aug.2024 12:46:10.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 17.126426696777344) to LOW (avg. 21.3265380859375)
+[09aug.2024 12:46:25.390] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 21.3265380859375) to VERY_LOW (avg. 16.32505989074707)
+[09aug.2024 12:46:40.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 16.32505989074707) to LOW (avg. 21.981475830078125)
+[09aug.2024 12:47:02.890] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 21.9959774017334) to VERY_LOW (avg. 16.405935287475586)
+[09aug.2024 12:47:17.890] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 16.405935287475586) to LOW (avg. 22.313505172729492)
+[09aug.2024 12:47:25.390] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 22.313505172729492) to VERY_LOW (avg. 17.099458694458008)
+[09aug.2024 12:47:47.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 17.13062858581543) to LOW (avg. 20.950136184692383)
+[09aug.2024 12:48:32.890] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 20.7941837310791) to VERY_LOW (avg. 17.058828353881836)
+[09aug.2024 12:48:40.390] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 17.058828353881836) to LOW (avg. 22.75769805908203)
+[09aug.2024 12:49:17.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 21.004249572753906) to VERY_LOW (avg. 16.37020492553711)
+[09aug.2024 12:52:55.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 17.292701721191406) to LOW (avg. 23.00068473815918)
+[09aug.2024 12:53:02.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 23.00068473815918) to VERY_LOW (avg. 17.8019962310791)
+[09aug.2024 12:57:40.392] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 16.40393829345703) to LOW (avg. 22.03607940673828)
+[09aug.2024 12:58:02.892] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 21.607629776000977) to VERY_LOW (avg. 16.3480167388916)
+[09aug.2024 13:00:25.390] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 17.33028793334961) to LOW (avg. 23.04447364807129)
+[09aug.2024 13:01:47.890] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 23.008460998535156) to VERY_LOW (avg. 16.978334426879883)
+[09aug.2024 13:02:55.390] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 17.439489364624023) to LOW (avg. 21.769746780395508)
+[09aug.2024 13:04:32.890] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 21.563255310058594) to VERY_LOW (avg. 16.967914581298828)
+[09aug.2024 13:04:46.606] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Glogge lost connection: Disconnected
+[09aug.2024 13:04:46.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Glogge left the game
+[09aug.2024 14:18:56.078] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Glogge is 61cd030b-8127-49ab-88b2-ff3e82d8032c
+[09aug.2024 14:19:01.423] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Glogge[/192.168.50.185:51151] logged in with entity id 74165 at (807.7342424476731, 83.0, -273.30000001192093)
+[09aug.2024 14:19:01.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Glogge joined the game
+[09aug.2024 14:19:01.476] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[09aug.2024 14:19:01.477] [Server thread/INFO] [Jade/]: Syncing config to Glogge (61cd030b-8127-49ab-88b2-ff3e82d8032c)
+[09aug.2024 14:19:02.898] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 1.84418523311615) to LOW (avg. 31.41913414001465)
+[09aug.2024 14:19:10.390] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 31.41913414001465) to VERY_LOW (avg. 16.852184295654297)
+[09aug.2024 14:19:47.890] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 16.456968307495117) to LOW (avg. 21.621017456054688)
+[09aug.2024 14:19:55.390] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 21.621017456054688) to VERY_LOW (avg. 17.635929107666016)
+[09aug.2024 14:21:25.390] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 15.91132640838623) to LOW (avg. 20.947603225708008)
+[09aug.2024 14:22:25.390] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 21.35723876953125) to VERY_LOW (avg. 16.70505714416504)
+[09aug.2024 14:22:40.392] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 16.70505714416504) to LOW (avg. 21.087228775024414)
+[09aug.2024 14:23:02.890] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 20.67124366760254) to VERY_LOW (avg. 15.737997055053711)
+[09aug.2024 14:24:25.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 17.156465530395508) to LOW (avg. 21.835494995117188)
+[09aug.2024 14:24:40.390] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 21.835494995117188) to VERY_LOW (avg. 16.38851547241211)
+[09aug.2024 14:34:55.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 17.04412078857422) to LOW (avg. 21.067916870117188)
+[09aug.2024 14:35:10.390] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 21.067916870117188) to VERY_LOW (avg. 16.986974716186523)
+[09aug.2024 14:37:10.390] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 17.200029373168945) to LOW (avg. 22.80891990661621)
+[09aug.2024 14:37:32.890] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 21.536108016967773) to VERY_LOW (avg. 16.73423194885254)
+[09aug.2024 14:38:02.890] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 18.079425811767578) to LOW (avg. 21.313945770263672)
+[09aug.2024 14:38:25.390] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 22.918254852294922) to VERY_LOW (avg. 17.281265258789062)
+[09aug.2024 14:38:40.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 17.281265258789062) to LOW (avg. 20.16376495361328)
+[09aug.2024 14:38:55.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 20.16376495361328) to VERY_LOW (avg. 17.2637996673584)
+[09aug.2024 14:39:17.890] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 19.50562858581543) to LOW (avg. 25.54194450378418)
+[09aug.2024 14:39:32.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 25.54194450378418) to VERY_LOW (avg. 17.42294692993164)
+[09aug.2024 14:40:25.392] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 17.86445426940918) to LOW (avg. 22.502548217773438)
+[09aug.2024 14:40:40.390] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 22.502548217773438) to VERY_LOW (avg. 19.7972469329834)
+[09aug.2024 14:41:32.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 17.568464279174805) to LOW (avg. 20.18484115600586)
+[09aug.2024 14:41:47.890] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 20.18484115600586) to VERY_LOW (avg. 17.001834869384766)
+[09aug.2024 14:42:55.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 19.59906005859375) to LOW (avg. 22.613666534423828)
+[09aug.2024 14:43:40.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 29.20925521850586) to VERY_LOW (avg. 16.992433547973633)
+[09aug.2024 14:44:02.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 17.2290096282959) to LOW (avg. 21.19147491455078)
+[09aug.2024 14:44:25.390] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 22.380617141723633) to VERY_LOW (avg. 16.347209930419922)
+[09aug.2024 14:45:40.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 16.9708309173584) to LOW (avg. 21.742671966552734)
+[09aug.2024 14:46:10.390] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 22.74946403503418) to VERY_LOW (avg. 15.885706901550293)
+[09aug.2024 14:48:47.890] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 16.905502319335938) to LOW (avg. 20.975330352783203)
+[09aug.2024 14:49:47.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 20.74728775024414) to VERY_LOW (avg. 16.398639678955078)
+[09aug.2024 14:50:02.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 16.398639678955078) to LOW (avg. 22.718982696533203)
+[09aug.2024 14:50:25.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 21.43377685546875) to VERY_LOW (avg. 16.9891357421875)
+[09aug.2024 14:50:47.890] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 17.185829162597656) to LOW (avg. 21.545812606811523)
+[09aug.2024 14:51:25.390] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 23.901634216308594) to VERY_LOW (avg. 17.941761016845703)
+[09aug.2024 14:52:47.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 18.63206672668457) to LOW (avg. 20.207447052001953)
+[09aug.2024 14:53:02.890] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 20.207447052001953) to VERY_LOW (avg. 19.078105926513672)
+[09aug.2024 14:54:55.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 17.68454933166504) to LOW (avg. 21.576223373413086)
+[09aug.2024 14:55:25.390] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 22.799938201904297) to VERY_LOW (avg. 16.860698699951172)
+[09aug.2024 14:56:02.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 17.736652374267578) to LOW (avg. 22.08655548095703)
+[09aug.2024 14:57:32.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 22.215496063232422) to VERY_LOW (avg. 17.359981536865234)
+[09aug.2024 15:17:55.390] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 16.62644386291504) to LOW (avg. 21.6747989654541)
+[09aug.2024 15:18:25.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 24.739967346191406) to VERY_LOW (avg. 17.46882438659668)
+[09aug.2024 15:18:47.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from VERY_LOW (avg. 16.85041046142578) to LOW (avg. 21.26276397705078)
+[09aug.2024 15:19:02.891] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ? Server load changed from LOW (avg. 21.26276397705078) to VERY_LOW (avg. 17.10895347595215)
+[09aug.2024 16:24:30.106] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Glogge lost connection: Disconnected
+[09aug.2024 16:24:30.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Glogge left the game
+[09aug.2024 18:49:26.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[09aug.2024 18:49:27.048] [Server thread/INFO] [mtr.libraries.org.eclipse.jetty.server.AbstractConnector/]: Stopped ServerConnector@5f5e5ac4{HTTP/1.1, (http/1.1)}{0.0.0.0:8888}
+[09aug.2024 18:49:27.050] [Server thread/INFO] [mtr.libraries.org.eclipse.jetty.server.handler.ContextHandler/]: Stopped m.l.o.e.j.s.ServletContextHandler@29015b0d{/,union:/C:/Users/jonat/Documents/GitHub/Jonathans-Server/mods/MTR-forge-1.20.1-3.2.2-hotfix-2.jar%23467!/assets/mtr/website,STOPPED}
+[09aug.2024 18:49:27.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09aug.2024 18:49:27.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09aug.2024 18:49:27.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09aug.2024 18:49:27.056] [Physics thread/INFO] [Burger Factory/]: Deleting VSPhysicsPipelineStage resources!
+[09aug.2024 18:49:27.056] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ap/]: Physics pipeline ending
+[09aug.2024 18:49:27.340] [DefaultDispatcher-worker-8/INFO] [Burger Factory/]: VSPhysicsPipelineStage is fully deleted!
+[09aug.2024 18:49:29.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09aug.2024 18:49:29.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09aug.2024 18:49:29.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09aug.2024 18:49:29.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[09aug.2024 18:49:29.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[09aug.2024 18:49:29.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09aug.2024 18:49:29.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09aug.2024 18:49:29.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09aug.2024 18:49:29.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[09aug.2024 18:49:29.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[09aug.2024 18:49:29.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09aug.2024 18:49:29.814] [Server thread/INFO] [FTB Chunks/]: Shutting down map thread
+[09aug.2024 18:49:29.818] [Server thread/INFO] [Framework/]: Unloading server configs...
+[09aug.2024 18:49:29.819] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
