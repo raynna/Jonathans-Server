@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "uuid": "a6a2759c-26cf-4e4e-929d-b158d0ca3fb7",
+    "name": "Raynnaa",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "61cd030b-8127-49ab-88b2-ff3e82d8032c",
+    "name": "Glogge",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "a390a5f6-e003-4aa7-a0ff-c12fec5476f6",
+    "name": "TorstensStorsats",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
