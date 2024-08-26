@@ -187,6 +187,17 @@
         "value": 1024
       }
     },
+    "caelus:fall_flying": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
     "ars_nouveau:ars_nouveau.perk.max_mana": {
       "enabled": false,
       "min": {
